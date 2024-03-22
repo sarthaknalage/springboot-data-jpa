@@ -1,0 +1,13 @@
+package com.sarthak.data.jpa.basicMethods.operations.persistent;
+
+import org.springframework.data.repository.ListCrudRepository;
+import org.springframework.data.repository.ListPagingAndSortingRepository;
+import org.springframework.stereotype.Repository;
+
+import com.sarthak.data.jpa.basicMethods.operations.model.Customer;
+
+@Repository
+public interface CustomerPersistent extends ListCrudRepository<Customer,Integer>, ListPagingAndSortingRepository<Customer,Integer> {
+//	powerful finder method of spring data jpa without using the primary key as finding attribute.
+	Iterable<Customer> findByCustName(String custName);
+}

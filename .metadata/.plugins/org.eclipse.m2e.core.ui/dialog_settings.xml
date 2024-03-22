@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<section name="Workbench">
+	<section name="MavenProjectImportWizardPage">
+		<list key="rootDirectory">
+			<item value="C:\SpringBoot\springDataJpa\employee.curdOps"/>
+			<item value="C:\SpringBoot\springDataJpa\id.generator"/>
+			<item value="C:\Users\DELL\Downloads\SpringBootIntializrMavenDownload\id.generator"/>
+			<item value="C:\SpringBoot\springDataJpa\basicMethods.operations"/>
+			<item value="C:\Users\DELL\Downloads\SpringBootIntializrMavenDownload\basicMethods.operations"/>
+			<item value="C:\Users\DELL\OneDrive\Desktop\TestingFiles\springDataJpa"/>
+		</list>
+		<list key="projectNameTemplate">
+			<item value="[artifactId]"/>
+			<item value="[artifactId]-TRUNK"/>
+			<item value="[artifactId]-[version]"/>
+			<item value="[groupId].[artifactId]"/>
+			<item value="[groupId].[artifactId]-[version]"/>
+			<item value="[name]"/>
+		</list>
+	</section>
+	<section name="org.eclipse.m2e.core.pom.overview">
+	</section>
+	<section name="org.eclipse.m2e.core.pom.dependencies">
+	</section>
+</section>

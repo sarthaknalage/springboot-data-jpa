@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<qualifiedTypeNameHistroy>
+    <fullyQualifiedTypeName name="jakarta.persistence.GenerationType"/>
+    <fullyQualifiedTypeName name="com.sarthak.data.jpa.basicMethods.operations.persistent.CustomerPersistent"/>
+    <fullyQualifiedTypeName name="com.sarthak.data.jpa.basicMethods.operations.service.CustomerServiceInterface"/>
+    <fullyQualifiedTypeName name="java.awt.print.Pageable"/>
+    <fullyQualifiedTypeName name="org.springframework.boot.autoconfigure.data.web.SpringDataWebProperties.Pageable"/>
+    <fullyQualifiedTypeName name="org.springframework.data.domain.PageRequest"/>
+    <fullyQualifiedTypeName name="java.util.Scanner"/>
+    <fullyQualifiedTypeName name="org.hibernate.query.Page"/>
+    <fullyQualifiedTypeName name="org.springframework.data.domain.Page"/>
+    <fullyQualifiedTypeName name="com.sarthak.data.jpa.basicMethods.operations.Application"/>
+    <fullyQualifiedTypeName name="org.springframework.data.domain.Sort.Direction"/>
+    <fullyQualifiedTypeName name="jakarta.persistence.Entity"/>
+    <fullyQualifiedTypeName name="jakarta.persistence.Table"/>
+    <fullyQualifiedTypeName name="jakarta.persistence.Id"/>
+    <fullyQualifiedTypeName name="jakarta.annotation.Generated"/>
+    <fullyQualifiedTypeName name="jakarta.persistence.GeneratedValue"/>
+    <fullyQualifiedTypeName name="jakarta.persistence.Column"/>
+    <fullyQualifiedTypeName name="jakarta.persistence.SequenceGenerator"/>
+    <fullyQualifiedTypeName name="org.springframework.stereotype.Repository"/>
+    <fullyQualifiedTypeName name="org.springframework.boot.autoconfigure.kafka.KafkaProperties.Producer"/>
+    <fullyQualifiedTypeName name="org.springframework.stereotype.Service"/>
+    <fullyQualifiedTypeName name="com.sarthak.data.id.generator.dao.DaoProductPersistent"/>
+    <fullyQualifiedTypeName name="java.util.jar.Attributes.Name"/>
+    <fullyQualifiedTypeName name="com.sarthak.data.id.generator.entity.Product"/>
+    <fullyQualifiedTypeName name="com.sarthak.data.id.generator.service.ISeriveProduct"/>
+    <fullyQualifiedTypeName name="org.springframework.beans.factory.annotation.Autowired"/>
+    <fullyQualifiedTypeName name="org.springframework.boot.ApplicationRunner"/>
+    <fullyQualifiedTypeName name="com.sarthak.data.jpa.basicMethods.operations.service.ImplCustomerService"/>
+    <fullyQualifiedTypeName name="java.lang.Iterable"/>
+    <fullyQualifiedTypeName name="com.sarthak.data.jpa.basicMethods.operations.model.Customer"/>
+    <fullyQualifiedTypeName name="java.util.ArrayList"/>
+    <fullyQualifiedTypeName name="java.util.Iterator"/>
+    <fullyQualifiedTypeName name="java.util.Collection"/>
+    <fullyQualifiedTypeName name="org.springframework.data.jpa.repository.Query"/>
+    <fullyQualifiedTypeName name="jakarta.persistence.criteria.Order"/>
+    <fullyQualifiedTypeName name="java.util.List"/>
+    <fullyQualifiedTypeName name="org.springframework.boot.autoconfigure.data.web.SpringDataWebProperties.Sort"/>
+    <fullyQualifiedTypeName name="org.springframework.data.domain.Sort"/>
+    <fullyQualifiedTypeName name="org.springframework.data.domain.Sort.Order"/>
+</qualifiedTypeNameHistroy>
