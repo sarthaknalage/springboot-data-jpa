@@ -2,6 +2,7 @@
 <section name="Workbench">
 	<section name="MavenProjectImportWizardPage">
 		<list key="rootDirectory">
+			<item value="C:\SpringBoot\springDataJpa\association"/>
 			<item value="C:\SpringBoot\springDataJpa\custom.query.jpql"/>
 			<item value="C:\SpringBoot\springDataJpa\employee.curdOps"/>
 			<item value="C:\SpringBoot\springDataJpa\id.generator"/>
